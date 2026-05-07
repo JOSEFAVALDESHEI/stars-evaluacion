@@ -95,7 +95,7 @@ export default function Survey() {
   const Header = () => (
     <div style={{ background: '#fff', borderBottom: `1px solid ${BRAND.border}`, padding: '14px 24px',
       display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-      <img src="https://stars-companies.cl/wp-content/uploads/2024/04/Logos-11-uai-258x258.png"
+      <img src="https://stars-companies.cl/wp-content/uploads/2024/11/Stars-Companies-Blanco.png"
         alt="STARS" style={{ height: 34, objectFit: 'contain' }} />
       <span style={{ fontSize: 11, color: BRAND.muted, letterSpacing: '0.07em', textTransform: 'uppercase' }}>
         Evaluación de equipo directivo
